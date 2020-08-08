@@ -123,8 +123,8 @@ button.btn {
 
 #slideshow-container {
   position: absolute;
-  left: 60%;
-  top: 100px;
+  left: 65%;
+  top: 20%;
   max-width: 475px;
 }
 .slides {
@@ -137,13 +137,13 @@ button.btn {
 }
 #dots {
   position: absolute;
-  left: 75%;
+  left: 70%;
   top: 70%;
 }
 .dot {
   height: 15px;
   width: 15px;
-  margin: 0 2px;
+  margin: 0 5px;
   background-color: #bbbbbb;
   border-radius: 50%;
   display: inline-block;
