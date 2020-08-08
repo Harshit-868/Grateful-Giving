@@ -35,13 +35,14 @@ h1 {
   width: 280px;
   float: left;
   padding-left: 25px;
-  margin-top: 70px;
+  margin-top: 100px;
 }
 #slogan {
   font-family: cursive;
   color: white;
   float: left;
   font-size: 20px;
+  margin-top: 200px;
 }
 
 /* --------------------- Mid-Cont --------------------- */
