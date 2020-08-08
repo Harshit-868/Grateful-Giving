@@ -38,13 +38,10 @@ h1 {
   padding-top: 70px;
 }
 #slogan {
-  position: relative;
   font-family: cursive;
   color: white;
   float: left;
   font-size: 20px;
-  padding-left: 50px;
-  padding-top: 20px;
 }
 
 /* --------------------- Mid-Cont --------------------- */
