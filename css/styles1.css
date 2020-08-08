@@ -37,6 +37,14 @@ h1 {
   padding-left: 25px;
   padding-top: 75px;
 }
+#top-cont p {
+  font-family: cursive;
+  color: white;
+  font-size: 20px;
+  float: left;
+  padding-left: 25px;
+  padding-top: 85px;
+}
 
 /* --------------------- Mid-Cont --------------------- */
 
