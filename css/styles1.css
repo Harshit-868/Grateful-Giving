@@ -41,9 +41,8 @@ h1 {
   font-family: cursive;
   color: white;
   font-size: 20px;
-  float: left;
   padding-left: 25px;
-  padding-top: 100px;
+  margin-top: 50px;
 }
 
 /* --------------------- Mid-Cont --------------------- */
