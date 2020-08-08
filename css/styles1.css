@@ -124,7 +124,7 @@ button.btn {
 #slideshow-container {
   position: absolute;
   margin-left: 55%;
-  margin-top: 20%;
+  margin-top: 5%;
   max-width: 475px;
 }
 .slides {
