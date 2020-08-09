@@ -79,6 +79,8 @@ button.btn {
   right: 475px;
 } #btn3 {
   right: 400px;
+} #btn4 {
+  right: 325
 }
 
 .page {
@@ -111,10 +113,10 @@ button.btn {
 } .shortcut:active {
   font-size: 15px;
 }
-#btn4 {
+#btn5 {
   top: 400px;
   left: 150px;
-} #btn5 {
+} #btn6 {
   top: 400px;
   left: 350px;
 }
